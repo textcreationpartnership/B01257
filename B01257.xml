@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles devisid by the holle consent of the kynges moste honourable counsayle, his gracis licence opteined therto, not only to exhorte, but also to enfourme his louynge subiectis of the trouthe.</title>
+            <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1534</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01257</idno>
+            <idno type="STC">STC 9178</idno>
+            <idno type="STC">ESTC S92136</idno>
+            <idno type="EEBO-CITATION">52633192</idno>
+            <idno type="OCLC">ocm 52633192</idno>
+            <idno type="VID">173999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173999)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2114:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles devisid by the holle consent of the kynges moste honourable counsayle, his gracis licence opteined therto, not only to exhorte, but also to enfourme his louynge subiectis of the trouthe.</title>
+                  <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+               </titleStmt>
+               <extent>[21] p.   </extent>
+               <publicationStmt>
+                  <publisher>In aedibus Tho. Bertheleti.,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>An. M.D.XXXIIII [1534] cum priuilegio.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initials.</note>
+                  <note>Signatures: A⁸, B³.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry --  VIII, --  King of England, 1491-1547 --  Divorce from Catharine.</term>
+               <term>Catharine, --  of Aragon, Queen, consort of Henry VIII, King of England, 1485-1536 --  Divorce from Henry VIII.</term>
+               <term>Great Britain --  History --  Henry VIII, 1509-1547 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173999:1"/>
+            <pb facs="tcp:173999:1" rendition="simple:additions"/>
+            <pb facs="tcp:173999:2"/>
+            <pb facs="tcp:173999:2" rendition="simple:additions"/>
+            <p>ARTICLES DEVI<g ref="char:EOLhyphen"/>SID by the holle conſent of the kynges moſte honourable counſayle, his gracis licence optei<g ref="char:EOLhyphen"/>ned therto, not on<g ref="char:EOLhyphen"/>ly to exhorte, but alſo to enfourme his louynge ſubiectis of the trouthe.</p>
+            <p>
+               <g ref="char:leaf">❧</g>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:173999:3"/>
+            <pb facs="tcp:173999:3"/>
+            <head>¶ The kynges moſte honourable counſeylle to the reſidue of his louynge ſubiectes.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ins it is the parte of all honourable and elect per<g ref="char:EOLunhyphen"/>ſons choſen by the prince, when they do declare and vtter matters of weighte, to obſerue an equitie and trouth in vtteryng of them, and to ſhew beneuolence to the people, whiche be vnder their prince, in admonyſhynge them of thynges, which are neceſſary for the<g ref="char:cmbAbbrStroke">̄</g> to know: We therfore the king our ſouerayns moſt faithful counſaylours and ſub<g ref="char:EOLhyphen"/>iectes, with hole aſſent and by his li<g ref="char:EOLhyphen"/>cence haue thought moſt conuenient and neceſſarie, to intimate vnto you (the reſte of his ſubiectes) theſe ar<g ref="char:EOLhyphen"/>ticles folowynge, for your better eru<g ref="char:EOLhyphen"/>dition and knowledge, and to open vnto you truly the manifold iniuries done vnto our kynge and ſouerayne,
+<pb facs="tcp:173999:4"/> whiche (we beinge his true and feith<g ref="char:EOLhyphen"/>ful ſubiectes) may in no wyſe ſuſteine or ſuffre: But ſtudy and endeuoir our ſelfes by all wayes to vs poſſible, to redoube and requite the ſame, and to take the iniuries and wronges done to his perſone (in whome is all our wealthe and ioye) more erneſtly, then if it were done to vs alone. And ſo ſhall we do accordyng to our duties, and therby deſerue merite of god, to whom moſte humbly we praye, that he wyll voucheſafe to haue, ſupport, defende and kepe vnder his wynge and tuicyon our moſte noble prince, the quene, now beinge his wyfe, with theyr iſſue, and all vs his true and louynge ſubiectes.</p>
+            <epigraph>
+               <q xml:lang="lat">Quia in te domine ſperamus.</q>
+            </epigraph>
+         </div>
+         <div type="compilation_of_articles">
+            <pb n="3" facs="tcp:173999:4"/>
+            <div n="1" type="article">
+               <p>
+                  <seg rend="decorInit">F</seg>Irſte the mere truthe is, that no lyuinge creature, of what aſtate, degree, or dignytie ſoo euer he be, hathe power gyuen hym by god, to diſpenſe with goddes la<g ref="char:EOLhyphen"/>wes, or lawe of nature. Which thing is confirmed and determyned in our princis caſe, by an infinite nombre of well lerned men ſtraungiers, by the moſt part alſo of all the moſt famous vniuerſities of Chriſtendome: And ſpeciallye, and aboue all (to our eſti<g ref="char:EOLhyphen"/>mations) the holle clergie of this re<g ref="char:EOLhyphen"/>alme. Whervpon and in diſcharge alſo of his conſcience, beinge aucto<g ref="char:EOLhyphen"/>ryſed by acte of parlyament our Me<g ref="char:EOLhyphen"/>tropolytane Archebyſhoppe of Can<g ref="char:EOLhyphen"/>turbury, hath adiudged the fyrſt ma<g ref="char:EOLhyphen"/>trimonye, to be contrarye to goddis lawes, &amp; therby not laufull, &amp; this pre<g ref="char:EOLunhyphen"/>ſent matrimonie nowe enioyed, lau<g ref="char:EOLhyphen"/>fulle and perfyte. Wherfore we all (that be our princis trewe ſubiectes)
+<pb facs="tcp:173999:5"/> oughte in this his iuſte &amp; true matri<g ref="char:EOLhyphen"/>monie, to lyue and dye with him, and his, of this venter come, or co<g ref="char:cmbAbbrStroke">̄</g>myng.</p>
+            </div>
+            <div n="2" type="article">
+               <head>The .ij. Article.</head>
+               <p>SEcondly, the counſailes of Nyce, Melyuence, and Aphricane, with others alſo, haue determyned, that cauſes of ſtrife or controuerſie, being ons begon in any region, alſo there, and in the ſayde region, be finally de<g ref="char:EOLhyphen"/>termined, and none other where, ex<g ref="char:EOLhyphen"/>preſſely denienge the courtes of be<g ref="char:EOLhyphen"/>yonde the ſee, to oblige any manne to appere at them for diuers weightie co<g ref="char:cmbAbbrStroke">̄</g>ſiderations in them expreſſed, whi<g ref="char:EOLhyphen"/>che not withſtandinge the byſhop of Rome by ſome men called Pope, the vſurper of goodis lawe, and infrin<g ref="char:EOLhyphen"/>ger of general counſels, hath hither<g ref="char:EOLhyphen"/>to wrongfully deteined at Rome, and wolde do ſtylle, except otherwiſe our prince and his parlyament had proui<g ref="char:EOLunhyphen"/>ded his gret and weightie cauſe, con<g ref="char:EOLhyphen"/>trarye to ryghte and conſcience, to
+<pb n="4" facs="tcp:173999:5"/> the vtter vndoinge of this realme.</p>
+               <p>Whiche thynges the prince and his holle parlyament conſiderynge, and takynge ſome lyght vpon the forſaid general counſailes, and waying alſo other wyſe and politike reaſons, thin<g ref="char:EOLunhyphen"/>kinge verily this amongeſt other co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſideratio<g ref="char:cmbAbbrStroke">̄</g>s, that it were not mete that the inheritance of this realme ſhulde depende vppon the byſhop of Rome, or any other ſtraungiers wyll &amp; ple<g ref="char:EOLhyphen"/>ſure, whiche other by affection, mede or feare, might and wold ordre it af<g ref="char:EOLhyphen"/>ter his worldly affections and appe<g ref="char:EOLhyphen"/>tites, as it wel appereth this holy by<g ref="char:EOLunhyphen"/>ſhoppe of Rome wolde: haue made a commodious and welthy law lately, both for vs &amp; him, By which, good pe<g ref="char:EOLunhyphen"/>ple (liuing within the limites of true matrimonie within this realme) ſhal not by malice, or euil wyl be ſo longe deteyned and interrupted from their righte, as in tymes paſſed they haue bene, Nor iniuſte matrimonie ſhall
+<pb facs="tcp:173999:6"/> haue his vnlauful and inceſtuous de<g ref="char:EOLunhyphen"/>moure, as by delays to Rome, it was wont to haue, whiche may euidently appere now, by that, that our princis weightie and longe protracted cauſe of Matrimonie, hath nowe here his final and proſperous ende, with brefe ſucceſſe of iſſue all redy hadde, and o<g ref="char:EOLhyphen"/>ther lyke to folowe, laudes be vnto god, thonly werker of the ſame: with whiche iſſue bothe you and we, muſte bothe lyue and dye, accordyng to our allegeance.</p>
+            </div>
+            <div n="3" type="article">
+               <head>The .iij. Article.</head>
+               <p>THirdly it is to be take<g ref="char:cmbAbbrStroke">̄</g> for a truth &amp; equitie agreing with lernyng, that an excuſatour in any byſhoppes court of the worlde, the partie eyther not beinge bounde perſonally to ap<g ref="char:EOLhyphen"/>pere there (as bi al lerning our prince is not at Rome) or being impedite by any other lauful cauſes, whiche they by theyr own law haue limited, ſhuld be admitted to anſwere for the parte,
+<pb n="5" facs="tcp:173999:6"/> ageinſte whiche equitie the byſhop of Rome hath alſo reiected our princis excuſatour, whiche iniurie although it be not yet put in execution ageinſte any other perſone (ſauyng our prince and kyng) yet that example ſhall re<g ref="char:EOLhyphen"/>mayne for a preſident, in preiudice of al princis and poteſtates. Wherfore, we wolde aduyſe them briefly to loke vpon it, and we and ye the reſt of his ſubiectes, ſo to deteſte this great in<g ref="char:EOLhyphen"/>iurie done to our prince, and conſe<g ref="char:EOLhyphen"/>quently to vs, that the byſſhoppe of Rome, and all his, ſhall ſe, that ex<g ref="char:EOLhyphen"/>cepte it and all other iniuries done to our prince and ſouerayne, be ſhortly redoubed, we wyll reuenge it to the vttermoſt of our power, and in ſo do<g ref="char:EOLhyphen"/>inge, we do but our duetie, yet ſurely we doubte not but it ſhall be very ac<g ref="char:EOLhyphen"/>ceptably take<g ref="char:cmbAbbrStroke">̄</g> bi our prince and king.</p>
+            </div>
+            <div n="4" type="article">
+               <head>The fourth Article.</head>
+               <p>FOurthely the righte beleue of all true Chriſtien people is, that the
+<pb facs="tcp:173999:7"/> general counſel (laufully gatherid) is ſuperiour and hath power ouer al by ſhoppes and ſpiritualle powers, not exceptynge the byſſhoppe of Rome. In confirmation of whiche opinion the approbate cou<g ref="char:cmbAbbrStroke">̄</g>ſell of Baſil ſeyth theſe wordes: who ſo euer opponeth him ſelf obſtinatli ageinſt this truth, is to be taken by al true chriſten peo<g ref="char:EOLhyphen"/>ple, as an heritike. Wherfore, louing frendes, lette vs ſo handell our ſelfe bothe in wordis &amp; dedes, that we be not taken for any fo<g ref="char:cmbAbbrStroke">̄</g>de ſcruple in this trap, and let not herin our eies be ſo blynded, nor oure eares made ſo defe with the ſayinges or prechinges of a<g ref="char:EOLhyphen"/>ny papiſtes, that we ru<g ref="char:cmbAbbrStroke">̄</g>ne heedlonge ageynſte the true beleue of all ryght Chriſten people.</p>
+            </div>
+            <div n="5" type="article">
+               <head>The fyfte Article.</head>
+               <p>FIftly, by the lawe of nature it is granted and admitted for lauful, that a man beinge greued, vexed, or troubled iniuſtely, may appele from
+<pb n="6" facs="tcp:173999:7"/> the byſſhop of Rome, to the generall counſel, whiche ſo beinge, then ſpeci<g ref="char:EOLhyphen"/>allye ſuche libertie is moſte conueni<g ref="char:EOLhyphen"/>ent for princis, and they not to be re<g ref="char:EOLhyphen"/>iected therfro, nor it is not a thynge by them to be neglected or omytted, whiche haue but two wayes princi<g ref="char:EOLhyphen"/>pally where none other can preuayle, to atteyne ryght the one ageynſte the other, that is to ſey, in cauſes concer<g ref="char:EOLunhyphen"/>nynge the ſaule and mere ſpirituall, appellation to the general counſeyle, In temporall, the ſword only, except by meditation of frendes, the maters may de compounded, ſo that who ſo euer wolde go about to take away a<g ref="char:EOLhyphen"/>ny of theſe naturelle defences frome them, is to be manly withſtande both by the prince and his ſubiectes. And therto, we be animate by oure ryght father whiche redemed vs, our lorde Ieſu Chriſte in that he ſayth, Obeye ye princis aboue all, and then theyr deputies, not gyuynge power to any
+<pb facs="tcp:173999:8"/> other within theyr reules and domi<g ref="char:EOLhyphen"/>nions.</p>
+            </div>
+            <div n="6" type="article">
+               <head>The .vi. Article.</head>
+               <p>SIxtly after y<hi rend="sup">t</hi> appellations be lau<g ref="char:EOLhyphen"/>fully made fro<g ref="char:cmbAbbrStroke">̄</g> the biſhop of Rome (whiche calleth hym ſelfe pope) vnto the generall counſell, he is bounde by the lawe neither to do, ne attempte a<g ref="char:EOLhyphen"/>ny further proces, in preiudice of the appellante, whiche yf he do, by the forſayde lawes, his doinges can not preiudice the appellante, and alſo it ſtandeth voyde, The effecte of whi<g ref="char:EOLhyphen"/>the lawe muſt now take his ſtrength in the benefite of our prince, except to great iniurie be miniſtred vnto him. For our prince and kynge, accordyng to the libertie of nature and conſti<g ref="char:EOLhyphen"/>tutions of generalle counſayles (as afore) hath both prouoked and appe<g ref="char:EOLunhyphen"/>led to the general counſayle next en<g ref="char:EOLhyphen"/>ſuinge, rightfully congregate, from the vſurper of goddis lawes, and in<g ref="char:EOLhyphen"/>fringer of generall counſayles, whi<g ref="char:EOLhyphen"/>che
+<pb n="7" facs="tcp:173999:8"/> calleth hym ſelfe Pope. In the whiche our princis doinges, all iuſte and true chriſten men, I doubte not, wylle ſupporte and meynteyne hym, whiche prouocations &amp; appellations alſo ſtandynge in force, and being in<g ref="char:EOLhyphen"/>timate to the perſon of the ſaid vſur<g ref="char:EOLhyphen"/>per (as in dede they be) ſequeſtrethe hym rightfully from al maner of pro<g ref="char:EOLunhyphen"/>ces belongyng or in any wiſe apper<g ref="char:EOLhyphen"/>teynyng to our princis facte and ma<g ref="char:EOLhyphen"/>ter, in any of his courtis. Other dia<g ref="char:EOLhyphen"/>bolike actis &amp; ſtatutes by ſome of his predeceſſours made, as herafter ſhal appere, not withſtandynge. Wher<g ref="char:EOLhyphen"/>fore, what cenſures, interdictions, or other his curſed inuentions, what ſo euer they be, ought to be diſpiſed and mannefullye withſtande, for they be noughte in dede, and we (ſo doinge) ſhall haue for our buckeler, the latter &amp; better parte of this verſe enſuinge, And the maligners,<note place="margin">Pſal 36.</note> the fore part of the ſame, whiche is, <hi>Quoniam qui
+<pb facs="tcp:173999:9"/> malignantur exterminabuntur, ſuſti<g ref="char:EOLhyphen"/>ne<g ref="char:cmbAbbrStroke">̄</g>tes aute<g ref="char:cmbAbbrStroke">̄</g> dominu<g ref="char:cmbAbbrStroke">̄</g>, ipſi here ditabunt terram.</hi>
+               </p>
+            </div>
+            <div n="7" type="article">
+               <head>The .vii. Article.</head>
+               <p>SEuenthely the ſentence of excom<g ref="char:EOLhyphen"/>munication, oughte not to be exe<g ref="char:EOLhyphen"/>cuted by anye miniſter of Chriſtes churche, agaynſt any creature, except it be for deedly ſyn prohibite by god<g ref="char:EOLhyphen"/>des lawe and ſcripture, nor yet then, excepte the partye ſtande in contu<g ref="char:EOLhyphen"/>macye or be heddye: howe ſklender<g ref="char:EOLhyphen"/>ly ſhuld we then eſteme his cenſures and curſes, which extendeth them v<g ref="char:EOLhyphen"/>pon vs chefly, bicauſe we haue made holſome lawes, for the commoditie and welthe of our prince and realme ſecondly, bycauſe they do preiudicate his wordly appetites and profyte,</p>
+               <p>Thirdly by cauſe our prince wyl not (contrarie to his conſcience, derected by goddis lawe, and thoppinions of the moſte parte of all the beſte lerned men in chriſtendome, as afore is re<g ref="char:EOLhyphen"/>herſed)
+<pb n="8" facs="tcp:173999:9"/> lyue an inceſtuous lyfe &amp; ab<g ref="char:EOLhyphen"/>homynable? Theſe thinges be ſo con<g ref="char:EOLunhyphen"/>trarious to equitie, reſon, and iuſtice, that by his doinges it maye appere, what maner a man he is, accordynge to a texte of ſcripture, whiche ſaith: <hi>Ex operibus eorum cognoſcetis eos.</hi> Wher<g ref="char:EOLhyphen"/>fore, we al (our princis true ſubiectis) oughte to recken, as reaſon and ler<g ref="char:EOLhyphen"/>nynge leadeth vs, beſides the due o<g ref="char:EOLhyphen"/>bedience to our prince, that the curſe of hym, whiche miniſtrethe hit in<g ref="char:EOLhyphen"/>iuſtly, as this is miniſtred, thoughe it were within his iurisdiction, as it is not: ſhall redounde to hym ſelfe, and hurte no man elles. Wherfore in this, lette vs al ſhewe our ſelfes lyke true and obedient ſubiectes, not eſte<g ref="char:EOLhyphen"/>myng or hangynge vpon any lyuing creature, ſaue onely oure prince and king, accordyng to an olde prouerbe here in Englande, of olde tyme paſt, moche wont to be ſet by, &amp; ofte tymes by true men reherſed, whiche is, One
+<pb facs="tcp:173999:10"/> god and one kyng, myndyng therby, that all other folkes doinges ſhulde be deſpiſed, whiche in any poynt may be contrary to them, in confirmation wherof the prophete Dauid ſayeth theſe wordes, <hi>Inimici uero domini mox honorificati fuerint et exaltati,</hi>
+                  <note place="margin">ſal. 56.</note> 
+                  <hi>deficientes quemadmodum fumus deficient.</hi>
+               </p>
+            </div>
+            <div n="8" type="article">
+               <head>The .viij. article.</head>
+               <p>EIghtly, it is the office of all ma<g ref="char:EOLhyphen"/>ner of byſhoppes, and a graunte alſo indifferentely made to theym all by God, that they ſhoulde fyrſte frendely admonyſſhe, and ſecretelye reproue. Secondely, afore recorde charitably to refourme (if they can) all maner of offenders of goddis la<g ref="char:EOLhyphen"/>wes within their dioces, not vſynge any compulſories, except the parties perſiſte obſtinate and in contumacie, whiche happenyng, then is it laufull for them to vſe cenſures and excom<g ref="char:EOLhyphen"/>munications.
+<pb n="5" facs="tcp:173999:10"/> And this manier of wayes onely, ought euery byſhoppe to vſe, althoughe the byſſhoppe of Rome, wolde them to do neuer ſo mo<g ref="char:EOLunhyphen"/>che to the contrary, for they be bou<g ref="char:cmbAbbrStroke">̄</g>de more to obey god then man, whiche office and wayes, (accordynge to his duetie) our good byſſhoppe of Caun<g ref="char:EOLhyphen"/>turbury (nowe lyuynge) hath begon to ſhewe and folowe. For fyrſt he ap<g ref="char:EOLhyphen"/>perceyuyng, when he came to his di<g ref="char:EOLhyphen"/>gnitie, that his prince and ſouerayne lyued in vnlaufull and vnſittyng ma<g ref="char:EOLunhyphen"/>trimonie (accordynge to his duetie) mekely dydde admonyſhe hym, and therin alſo reproued hym, exhortynge hym to leaue it, or els he wolde do fur<g ref="char:EOLunhyphen"/>ther his duetie in it, So that at the laſte, accordynge to goddis lawes, he did ſeparate his prince from that vn<g ref="char:EOLhyphen"/>laufull matrimonie. In whiche do<g ref="char:EOLhyphen"/>ing, we thinke that euerye trewe ſub<g ref="char:EOLhyphen"/>iecte ſhulde moche the better eſteme hym, bycauſe he wold execute goddis
+<pb facs="tcp:173999:11"/> commaundement, and ſette this re<g ref="char:EOLhyphen"/>alme in the waye of true heyres. And howe God herewith is pleaſed, we thinke it doeth euidentlye appere by many thynges. Firſt ſo brefely vpon this latter and lawfull matrimonie, ſo ſoone iſſue hadde: Secondely, ſo fayre wether, with greatte plentie of corne and cattal: Thirdly peace and amitie lately ſought by diuers prin<g ref="char:EOLhyphen"/>cis and potentates, of oure Prince: Fourthely the purenes of ayre with<g ref="char:EOLhyphen"/>out anye peſtilenciall or contagious diſeaſe, by ſo longe tyme during, whi<g ref="char:EOLunhyphen"/>che thynges we ought to thanke god for, and to take them for demonſtra<g ref="char:EOLhyphen"/>cions that he is pleaſed, bothe with our prince and his doinges. Wher<g ref="char:EOLhyphen"/>fore, let vs all that be his true ſubie<g ref="char:EOLhyphen"/>ctes, bothe reioyce in hit, and applye vs accordynglye to ſerue bothe god, hym and his in it, accordynge to our bounden dueties.</p>
+            </div>
+            <div n="9" type="article">
+               <head>The .ix. article.</head>
+               <pb n="3" facs="tcp:173999:11"/>
+               <p>NInthely, that where in dede by ſcripture, there is none auctori<g ref="char:EOLhyphen"/>tie ne iurisdiction graunted more to the byſhoppe of Rome, than to any o<g ref="char:EOLhyphen"/>ther, <hi>Extra prouinciam,</hi> yet bycauſe that ſufferance of people, and blyndenes of Princis, with their ſupportation hitherto, hath ſuſteined the ſame, do<g ref="char:EOLhyphen"/>inge them ſelfes therby to greate in<g ref="char:EOLhyphen"/>iurie, it is thought nowe conuenient, and more then neceſſarie, to open the ſame to the worlde, to the intente it eſteme not, ne honour hym as a god, for feare of idolatrie, he beinge but a man, and what maner a man, a man neyther in lyfe nor lernynge, Chri<g ref="char:EOLhyphen"/>ſtis diſciple, a man alſo, though the ſee apoſtolike were of neuer ſo highe auctoritie, contrarious, vnlaufulle alſo by their owne decrees, to occupie and enioye his vſurped place. For fyrſt he is bothe baſte and cam to his dignitie by Simony, and now in de<g ref="char:EOLhyphen"/>nieng the prouocation and appele of
+<pb facs="tcp:173999:12"/> our ſoueraygne lorde the kynge, and ſupportinge the diabolike decree of his predeceſſour Pius, is determined by a generall counſaile <hi>Vere haereticus.</hi> that is to ſay, an Herityke.</p>
+               <p>Wherfore, all we (beinge trewe chri<g ref="char:EOLhyphen"/>ſten people, he thus contynuynge) oughte to diſpice bothe hym and his factes, and be no lenger blinded with hym, but gyue our ſelfes holly to the obſeruance of Chriſtis lawe, in whi<g ref="char:EOLhyphen"/>che is all ſwetnes and truthe, adioy<g ref="char:EOLhyphen"/>ninge with hit the lawes of this re<g ref="char:EOLhyphen"/>alme, vtterlye relyngquiſhynge the o<g ref="char:EOLhyphen"/>ther, in whiche is nothinge elles, but pompe, pride, ambition, and wayes to make them ſelfes ryche, whiche is moche contrarious to his profeſſion, our lorde amende hym, and giue vs grace no lenger to be blynded with hym. Amen.</p>
+            </div>
+         </div>
+         <trailer>Finis.</trailer>
+      </body>
+      <back>
+         <div xml:lang="lat" type="colophon">
+            <pb facs="tcp:173999:12"/>
+            <p>LONDINI IN AEDIBVS THO. BERTHELETI. AN. M.D.XXXIIII.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>CVM PRIVILEGIO.</p>
+            <pb facs="tcp:173999:13"/>
+            <pb facs="tcp:173999:13" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
